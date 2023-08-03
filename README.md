@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository is the official PyTorch implementation of paper "[Isolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks]()"
+This repository is the official PyTorch implementation of paper "[Isolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks](https://arxiv.org/abs/2308.00958)"
 
 ## Install
 
@@ -56,10 +56,10 @@ All results and checkpoints will save under <exp_path>.
 If this work helps your research, please cite the following paper.
 
 ```
-@inproceedings{guo2023isolation,
+@article{guo2023isolation,
   title={Isolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks},
   author={Guo, Jun and Liu, Aishan and Zheng, Xingyu and Liang, Siyuan and Xiao, Yisong and Wu, Yichao and Liu, Xianglong},
-  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
+  journal={arXiv preprint arXiv:2308.00958},
   year={2023}
 }
 ```
